@@ -7,9 +7,9 @@
 7. Run php artisan migrate.
 8. Run php artisan serve.
 
-Login as admin
-Email: admin@admin.com
-Password: admin
+Login as admin <br>
+Email: admin@admin.com <br>
+Password: admin <br>
 
 Login as moderator
 Email: moderator@moderator.com
