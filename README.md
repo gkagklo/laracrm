@@ -11,7 +11,7 @@ Login as admin <br>
 Email: admin@admin.com <br>
 Password: admin <br>
 
-Login as moderator
-Email: moderator@moderator.com
-Password: moderator
+Login as moderator <br>
+Email: moderator@moderator.com <br>
+Password: moderator <br>
 
