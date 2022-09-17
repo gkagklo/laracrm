@@ -4,8 +4,9 @@
 4. Copy .env.example file to .env on the root folder and change database name.
 5. php artisan storage:link (for images).
 6. Run php artisan key:generate.
-7. Run php artisan migrate.
+7. In database folder you can find sql and run it in your database.
 8. Run php artisan serve.
+
 
 Login as admin <br>
 Email: admin@admin.com <br>
